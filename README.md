@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Smilefounder&theme=gotham&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=FF0080&icon_color=FF0080&text_color=fefefe)](https://huy.ink)
 <!--
 **Smilefounder/Smilefounder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
